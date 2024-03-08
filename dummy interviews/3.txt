@@ -1,0 +1,67 @@
+1.features of java 8?
+2.what is biggest benefit of using java?
+3.What is encapsulation?
+4.diff btw map method and for-each method?
+5.internal implementation of hashmap?
+6.purpose of @springbootapplication?
+7.diff btw @configuration and @autoconfiguration?
+8.diff btw @controller and @restcontroller?
+9.diff btw postmapping and getmapping?
+10.what is @requestmapping?
+------------------------------------------------
+1.what is @service?
+2.advantages of using hibernate?
+3.diff btw jdbc and hibernate?
+4.types of exceptions in java?
+5.when will u get sql exception?
+6.what is session factory in hibernate?
+7.what are immutable objects?
+8.what is hibernate cache?
+9.after entering username and password in ur project what type of data u received at webserver?(project)
+10.any headers u used in json?(project)
+11.memory allocations in java?
+12.where will static variable stored?
+13.explain about string literals?
+14.can we override static methods in java?
+15.how to get values from hashmap?
+16.how to retrieve all values from arraylist?
+17.where u used multithreading in ur project?
+18.how u generate war file in ur IDE?(eclipse or sts4)
+19.what is git checkout <branchname>
+20.what are states of objects in hibernate?
+21.design patterns in java?
+22.annotations list in spring?
+23.explain flow of spring mvc?
+-------------------------------------------------------------
+1.what are the java 8 features used in ur project?
+2.can we overload or override final method?
+3.can we overload or override private method?
+4.hashmap internal implementation?
+5.how two microservices communicate each other?
+6.what is fallback method?
+7.how u used autoconfiguration in spring boot?
+8.why there is only one abstract method in functional interface?
+9.print reverse of string? (program)
+10.print second highest element in arraylist using streams?(program)
+11.what is @transactional annotation?
+---------------------------------------------------------------
+1.actuator in spring?
+2.what is cacheing in springboot?
+3.different stages in hibernate?
+4.diff btw hashmap and concurrent hashmap?
+5.functional interface?
+6.working of lambda expression in functional interface?
+7.from employee Arraylist sort employee based on name startswith character "r" using lambda expression?(program)
+8.what is @profile?
+9.diff btw session and session factory?
+10.annotations in hibernate?
+11.if there is delay in loading spring boot application while deployment what should u do?
+-------------------------------------------------------------------------------
+1.what is composition?
+2.write a program on composition(has-a-relationship)?(program)
+3.write a program to find the largest string in given array of strings?(program)
+4.write a program to find second highest element from array using streams api?(program)
+5.solid principles in java?
+6.explain liskow substitution pinciple?
+7.
+

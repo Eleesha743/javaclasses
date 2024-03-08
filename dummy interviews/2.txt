@@ -1,0 +1,121 @@
+1.what are the features in java 8?
+2.what is eurekha server?
+3.what is service registry u hava used?
+4.what is resttemplate & what are its methods?
+5.what are the difference between spring framework and spring boot?
+6.explain microservices architecture?design patterns in microservices?
+7.explain flow of application after u gave ng serve in angular?
+8.what is index.html?
+9.diff btw angular.json and package.json?
+10.why default and static methods introduced in interface in java 8?
+11.what is use of transient and volatile keywords?
+12.what is treeset?use of treeset?
+13.diff btw hashmap and hashtable?
+14.what is global exception in spring boot?
+15.diff btw exception and errors?
+16.write a program to check whether 2 strings are anagram or not?(program) 
+----------------------------------------------------
+1.what is restcontroller?
+2.what is api gateway?
+3.what is embedded server u used?
+4.what is default service registry u used?
+5.default port number of eurekha server?
+6.what is @value meant for?
+7.what is global exception in spring boot?
+8.find second largest number (using streams)?(program)
+9.find element that is repeated 3 times in list?(program)
+10.how to add jar files using command line ?
+11.methods available in jpa repository?
+-------------------------------------------------------
+1.self?
+2.explain about mutable and immutable ?
+3.hashmap internal implementation ?
+4.when we should go for arraylist & when u go for linkedlist?
+5.what is abstraction?how u can achieve abstraction?
+6.no. of occurences of each element in arraylist?(program)
+7.write sql query to get second highest salary from employeetable?(query)
+--------------------------------------------------------
+1.diff btw map & flatmap?
+2.diff btw sequential streams and parallel streams?
+3.functional interface?
+4.diff btw abstract and functional interface?
+5.find repeated elements in arraylist<String> ?(program)
+6.@component and @component scan?
+7.what is autowiring?
+
+-----------------------------------------------------------
+1.what is dependency injection?
+2.where we can use qualifier?
+3.diff btw truncate and delete in database?
+4.what is autowiring?
+5.write sql query to find recent joined employee from employee table?(query)
+6.
+-------------------------------------------------------------------
+1.what is orm?
+2.microservices?
+3.idempotent in microservices?
+4.how will u give input to restful by using post man?
+5.spring aop?
+6.intermedate and terminary operators example?
+7.what is loadbalancer in microservices?
+8.how circuitbrekaer works?
+9.working of fallbackmethod?
+10.how does jparepository is more secure?
+11.what is jpa?
+12.features of java8  other than regular features?
+13.how to create bean in spring ?
+14.what is dependency injection?
+15.what is actuator in springboot?
+16.design patterns in spring?
+17.print distinct characters in string using java 8 streams?(program)
+18.what is autowiring?
+--------------------------------------------------------------
+1.diff btw hashset and treest?
+2.diff btw comparable and comparator?
+3.diff btw fail-safe and fail-fast iterator?
+4.diff abstract class and interface?
+5.print index of "s" in string "rishi" using hashmap?(program)
+6.diff btw @restcontroller and @controller?
+7.what is statelessness in restapi?
+8.what is functional interface?
+
+----------------------------------------------------------
+1.composite primary keys in jpa? @Idclass & @EmbeddedId
+2.write program to get employee whose salary>20000 && age<30 using streams?(program)
+3.how will be flow of angular after giving ng serve?
+4.how to get data from one component to another component?
+5.write all git commands to push code into git hub?explain all?
+6.what are design patterns in java?
+7.create a singleton class?what if we use clone() method to disturb its purpose?
+8.what is @transactional in spring?where we can apply?
+9.what is pipe in angular? what is its use?
+10.how can u handle exceptions in angular?
+11.what are HTTP status codes in api? (404 & 500 & 200)
+----------------------------------------------------------------
+1.print index of element present in an array(program)
+2.what are webservices?
+3.explain about SOAP & REST API?
+4.what is Hibernate?
+5.what is spring batch?
+6.diff btw spring and spring boot?
+7.diff btw spring boot and spring batch?
+8.what is ORM?
+9.what are Advantages of stream API?
+-------------------------------------------------------------------------------
+1.Find the first non-repeating character of string using streams api?(Program)
+2.how to merge two unsorted arrays into single sorted array without duplicates using streams api?(program)
+3.what is service discovery?functions of service discovery?
+4.what should do if failure occurs btw microservices?
+5.spring annotations list?
+6.write sql query to fetch employee name who is earning more than his manager, fields (id,name,salary,managerid) (query)
+--------------------------------------------------------------------------------------
+1.oops concepts u know?
+2.java 8 features?
+3.what is wrapper class?
+4.print stars pattern righttriangle?(program)
+5.why we use spring boot?
+6.restful web services in spring?
+7.what is spring security?
+8.what is interface and implementation classes used in spring security?
+9.how do u know that there is security in spring?
+

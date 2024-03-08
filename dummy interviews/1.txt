@@ -1,0 +1,53 @@
+1.diff btw throw and throws
+2.concurrent hashmap
+3.functional interface
+4.by using object reference we can change value of static variable.(program)
+5.diff btw primary and qualifier
+7.fifth largest number using streamsapi
+6.what is autowiring
+--------------------------------------------------------------------
+1.design patterns(singleton,factory design,abstract factory design)
+2.Recursive function explain with example
+3.bean injection types
+4.scope types
+5.auto-wire
+6.application-context
+7.dependency-injection
+8.how to declare java bean
+9.mutable and immutable.
+10.native queries in hibernate.
+-------------------------------------------------------------------
+1.mutable & immutable class
+2.hashmap program for printing keyset & values separately
+3.in string replace() method
+4.thread life cycle(thread starting & run() method)
+5.method overloading.
+6.method overriding.
+7.microservices(what are advantages and disadvantages)
+8.connecting two tables with innerjoin() (sql query)
+9.how to establish connection with mysql from java
+--------------------------------------------------------------------
+1.difference btw POST,PUT,PATCH requests in restful api(spring boot)
+2.how to get data from third party api(spring boot)
+3.diff btw interface and abstraction
+4.diff btw hashset and treeset
+5.what is root class of all classes in java and what are methods available in that class?
+6.shall we override all methods in child class that extends an abstract class
+7.ArrayList<String>(); countrylist.add("india"),countrylist.add("usa")  india-2,usa-2,china-1  (program)
+8.how to create our own exception and how to throw it
+9.what is final , finally and finalize?
+-----------------------------------------------------------------------
+1.self
+2.where u used abstraction in ur project
+3.diff btw normal java class nd abstract class
+4.how do u create wrapper class
+5.what is autoboxing in java
+6.what is interface ? what is use of interface in java?
+7.what is  hashmap?
+8.how to create spring boot app?basic architecture to follow to create springboot app?
+-----------------------------------------------------------------------------
+1.self introduction?
+2.what are new features in java 8?
+3.Difference btw intermediate operators and terminal operators?
+4.what are Built-in functional interfaces?
+5.find 2nd largest number using streams ? && using java 7(normal code)?
